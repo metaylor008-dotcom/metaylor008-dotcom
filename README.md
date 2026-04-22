@@ -1,16 +1,27 @@
-## Hi there 👋
+## WELCOME! 👩‍🏫
 
-<!--
-**metaylor008-dotcom/metaylor008-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="profilepic.jpg" width="300px" style="float:left; margin:20px; border-style:solid; border-width: 10px">
 
-Here are some ideas to get you started:
+I am a converted CS teacher. My original degree is in history education before being voluntold to teach CS. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Classes Taught    | Years:         |
+| -------------     |:-------------:| 
+| World Studies     | 2014-2015 | 
+| U.S. History      | 2014-2017      | 
+| Sociology         | 2014-2019      | 
+|Exploring CS       | 2018 - Present |
+|Applying CS        | 2024 - Present |
+|AP CSP             | 2024 - Present |
+|AP Cybersecurity   |...coming soon |
+
+<br>
+<br>
+
+#### Languages Learned:
+* HTML
+* CSS
+* Javascript
+* Java
+* Python
+* Scratch
+* Makecode
