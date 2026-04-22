@@ -14,6 +14,9 @@ I am a converted CS teacher. My original degree is in history education before b
 |AP CSP             | 2024 - Present |
 |AP Cybersecurity   |...coming soon |
 
+<br>
+<br>
+
 #### Languages Learned:
 * HTML
 * CSS
