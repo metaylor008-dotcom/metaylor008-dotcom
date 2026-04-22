@@ -1,6 +1,6 @@
 ## WELCOME! 👩‍🏫
 
-<img src="profilepic.jpg" width="300px" style="float:left; margin:20px; border-style:solid; border-width: 10px">
+<img src="profilepic.jpg" width="300px">
 
 I am a converted CS teacher. My original degree is in history education before being voluntold to teach CS. 
 
@@ -13,9 +13,6 @@ I am a converted CS teacher. My original degree is in history education before b
 |Applying CS        | 2024 - Present |
 |AP CSP             | 2024 - Present |
 |AP Cybersecurity   |...coming soon |
-
-<br>
-<br>
 
 #### Languages Learned:
 * HTML
